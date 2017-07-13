@@ -1,4 +1,5 @@
 {
+    "name": "ducanh/functest",
     "minimum-stability": "dev",
     "autoload": {
         "files": ["functions.php"]
